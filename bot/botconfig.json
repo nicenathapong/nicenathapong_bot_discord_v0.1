@@ -1,0 +1,7 @@
+{
+    "token" : "<your bot token>",
+    "prefix" : "<your bot command prefix>",
+    "version" : "v0.1",
+    "adminid" : <your discord account id>,
+    "adminuser" : "<your discord account username with # and 4 digits>"
+}
