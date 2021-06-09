@@ -3,7 +3,6 @@ import os
 import random
 from discord.ext import commands 
 from os.path import join, dirname
-from dotenv import load_dotenv
 
 import json
 
