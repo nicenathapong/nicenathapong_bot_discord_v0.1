@@ -10,7 +10,7 @@ Please don't forget to..
 "py -3 -m pip install -U discord.py[voice]"
 "py -3 -m pip install -U youtube_dl"
 
-and the most important thing
+and the most important thing,
 Don't forget to setting your bot in "botconfig.py"
 
 Hope you enjoy my first coding project. Thank you.
